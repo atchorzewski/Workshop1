@@ -1,6 +1,6 @@
 # Workshop1
 
-Aplikacja musi posiadać następujące funkcje:
+Aplikacja posiada następujące funkcje:
 
 wyświetlanie wszystkich dostępnych zadań,
 wyjście z aplikacji,
